@@ -1,0 +1,5 @@
+nome = input("Digite o nome do destinatário:\n")
+participante = input("Digite o nome do participante:\n")
+evento = input("Digite o nome do evento:\n")
+valor = float(input("Digite o valor do evento:\n"))
+print("Declaro para o senhor " + nome + " que o senhor " + participante + " esteve presente no evento " + evento + " e gastou o valor de R$", valor, "com a entrada!")

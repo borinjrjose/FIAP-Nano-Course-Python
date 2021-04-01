@@ -1,0 +1,1 @@
+from Funcoes.Funcoes import *

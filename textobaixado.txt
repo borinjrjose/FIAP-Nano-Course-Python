@@ -1,0 +1,5 @@
+A pasta seculoxx contém os arquivos compactados referentes às tabelas encontradas no CD-ROM Estatísticas do Século XX,
+separados por tema.
+Cada arquivo apresenta um conjunto de tabelas em Excel, organizadas por ano.
+Os temas educação, população, saúde e trabalho foram divididos em 2 arquivos, de forma a facilitar o download.
+É aconselhável criar uma pasta seculoxx onde os arquivos referentes aos temas devem ser descompactados.

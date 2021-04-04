@@ -2,7 +2,7 @@
 Repositório destinado ao armazenamento dos códigos referentes ao curso de Python disponibilizado pela FIAP.
 
 ## Capítulo 1
-Breve introdução à linguagem e à IDE PyCharm com a codificação de um Hello World.
+Breve introdução à linguagem e a IDE PyCharm com a codificação de um Hello World.
 
 ## Capítulo 2
 Introdução a variáveis, tomadas de decisões e laços de repetição.

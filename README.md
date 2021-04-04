@@ -14,7 +14,7 @@ Explicação do funcionamento de listas no Python junto com a apresentação de 
 Apresentação das estruturas dicionário e tupla, assim como a demonstração de alguns métodos que são usados para trabalhar com elas.
 
 ## Capítulo 5
-Introdução à manipulação de arquivos no Python, utilizando métodos tanto para tratar de arquivos de texto como para gravar e recuperar arquivos JSON.
+Introdução à manipulação de arquivos no Python, utilizando métodos tanto para tratar arquivos de texto como para gravar e recuperar arquivos JSON.
 
 ## Capítulo 6
 Capítulo focado na utilização de pacotes externas. No caso, foi utilizado o pacote geopy que é destinada a codificações de localidade, facilitando encontrar endereços, coordenadas geográficas, etc. Também foi abordado pacotes relacionados ao sistema operacional como platform, datetime e getpass.

@@ -17,7 +17,7 @@ Apresentação das estruturas dicionário e tupla, assim como a demonstração d
 Introdução à manipulação de arquivos no Python, utilizando métodos tanto para tratar arquivos de texto como para gravar e recuperar arquivos JSON.
 
 ## Capítulo 6
-Capítulo focado na utilização de pacotes externos. No caso, foi utilizado o pacote geopy que é destinada a codificações de localidade, facilitando encontrar endereços, coordenadas geográficas, etc. Também foram abordados pacotes relacionados ao sistema operacional como platform, datetime e getpass.
+Capítulo focado na utilização de pacotes externos. No caso, foi utilizado o pacote geopy que é destinado a codificações de localidade, facilitando encontrar endereços, coordenadas geográficas, etc. Também foram abordados pacotes relacionados ao sistema operacional como platform, datetime e getpass.
 
 ## Capítulo 7
 Capítulo dedicado ao uso dos protocolos TCP e UDP para transferência de dados utilizando a biblioteca socket. Também foi abordado transferência de arquivos com o protocolo FTP.

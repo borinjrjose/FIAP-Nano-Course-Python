@@ -24,3 +24,6 @@ Capítulo dedicado ao uso dos protocolos TCP e UDP para transferência de dados 
 
 ## Capítulo 8
 Uma breve introdução à Internet das Coisas utilizando Python e Arduino.
+
+## Certificado
+<img alt="Certificado de Conclusão Nano Course - Python" src="./Certificado/Certificado Nano Course - Python.png">

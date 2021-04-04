@@ -27,4 +27,4 @@ Uma breve introdução à Internet das Coisas utilizando Python e Arduino.
 
 ## Certificado
 <img alt="Certificado de Conclusão Nano Course - Python" src="./Certificado/Certificado Nano Course - Python.png">
-A validade desse certificado pode ser verificada neste [link](https://on.fiap.com.br/local/nanocourses/validar-certificado/) informando a credencial **d9c6567693b4aa697d8f127c3fda70da**
+A validade desse certificado pode ser verificada neste <a href="https://on.fiap.com.br/local/nanocourses/validar-certificado/">link</a> informando a credencial <b>d9c6567693b4aa697d8f127c3fda70da</b>
